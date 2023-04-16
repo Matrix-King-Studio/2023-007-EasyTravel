@@ -1,0 +1,39 @@
+17:14:56.373 [main] INFO  tour.TourApplication - Starting TourApplication using Java 1.8.0_281 on zhdpzz with PID 15832 (D:\demo\java\tour\target\classes started by 20954 in D:\demo\java\tour)
+17:14:56.387 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+17:14:57.757 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+17:14:57.758 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:14:57.758 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:14:57.925 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:14:59.910 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-11111"]
+17:14:59.936 [main] INFO  tour.TourApplication - Started TourApplication in 4.065 seconds (JVM running for 5.565)
+17:19:14.204 [main] INFO  tour.TourApplication - Starting TourApplication using Java 1.8.0_281 on zhdpzz with PID 19636 (D:\demo\java\tour\target\classes started by 20954 in D:\demo\java\tour)
+17:19:14.211 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+17:19:15.213 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+17:19:15.214 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:19:15.214 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:19:15.327 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:19:17.263 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-11111"]
+17:19:17.290 [main] INFO  tour.TourApplication - Started TourApplication in 3.497 seconds (JVM running for 4.722)
+17:20:06.559 [http-nio-11111-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:20:06.574 [http-nio-11111-exec-1] INFO  tour.base.interceptor.JwtInterceptor - POST
+17:20:07.446 [http-nio-11111-exec-1] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+17:20:07.446 [http-nio-11111-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+17:20:07.935 [http-nio-11111-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:32:29.078 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m50s988ms711µs700ns).
+17:39:11.073 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+17:39:11.084 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:32:31.062 [main] INFO  tour.TourApplication - Starting TourApplication using Java 1.8.0_281 on zhdpzz with PID 3296 (C:\Users\20954\Desktop\便民游\tour\target\classes started by 20954 in C:\Users\20954\Desktop\便民游\tour)
+18:32:31.074 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+18:32:32.273 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+18:32:32.274 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+18:32:32.274 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+18:32:32.387 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:32:34.235 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-11111"]
+18:32:34.260 [main] INFO  tour.TourApplication - Started TourApplication in 4.093 seconds (JVM running for 5.446)
+18:33:56.234 [http-nio-11111-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:33:56.247 [http-nio-11111-exec-2] INFO  tour.base.interceptor.JwtInterceptor - POST
+18:33:57.011 [http-nio-11111-exec-2] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+18:33:57.011 [http-nio-11111-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:33:57.352 [http-nio-11111-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:34:03.896 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:34:03.906 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

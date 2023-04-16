@@ -1,0 +1,82 @@
+15:27:29.460 [main] INFO  tour.TourApplication - Starting BootPlusApplication using Java 1.8.0_281 on zhdpzz with PID 4324 (D:\demo\matrix_util\matrix_website\target\classes started by 20954 in D:\demo\matrix_util\matrix_website)
+15:27:29.493 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+15:27:30.774 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+15:27:30.774 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+15:27:30.775 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+15:27:30.881 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:27:32.165 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+15:57:55.521 [main] INFO  tour.TourApplication - Starting BootPlusApplication using Java 1.8.0_281 on zhdpzz with PID 12320 (D:\demo\java\matrix_website\target\classes started by 20954 in D:\demo\java\matrix_website)
+15:57:55.526 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+15:57:56.743 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+15:57:56.744 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+15:57:56.744 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+15:57:56.829 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:57:58.010 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+16:04:39.193 [main] INFO  tour.TourApplication - Starting BootPlusApplication using Java 1.8.0_281 on zhdpzz with PID 19260 (D:\demo\java\matrix_website\target\classes started by 20954 in D:\demo\java\matrix_website)
+16:04:39.200 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+16:04:40.464 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+16:04:40.466 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:04:40.466 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+16:04:40.556 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:04:41.862 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+16:07:30.530 [main] INFO  tour.TourApplication - Starting BootPlusApplication using Java 1.8.0_281 on zhdpzz with PID 6920 (D:\demo\java\matrix_website\target\classes started by 20954 in D:\demo\java\matrix_website)
+16:07:30.537 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+16:07:31.950 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+16:07:31.951 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:07:31.951 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+16:07:32.052 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:07:33.318 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+16:13:38.461 [main] INFO  tour.TourApplication - Starting BootPlusApplication using Java 1.8.0_281 on zhdpzz with PID 13808 (D:\demo\java\matrix_website\target\classes started by 20954 in D:\demo\java\matrix_website)
+16:13:38.467 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+16:13:39.585 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+16:13:39.585 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:13:39.585 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+16:13:39.677 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:13:41.521 [main] INFO  springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+16:13:41.923 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-11111"]
+16:13:41.937 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+16:13:41.940 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+16:13:41.959 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+16:13:42.057 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: uploadUsingPOST_1
+16:13:42.081 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: uploadUsingPOST_2
+16:13:42.096 [main] INFO  tour.TourApplication - Started BootPlusApplication in 3.925 seconds (JVM running for 4.876)
+16:14:23.224 [http-nio-11111-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:15:12.549 [main] INFO  tour.TourApplication - Starting BootPlusApplication using Java 1.8.0_281 on zhdpzz with PID 16804 (D:\demo\java\matrix_website\target\classes started by 20954 in D:\demo\java\matrix_website)
+16:15:12.556 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+16:15:14.791 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+16:15:14.791 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:15:14.792 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+16:15:14.881 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:15:16.693 [main] INFO  springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+16:15:17.125 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-11111"]
+16:15:17.154 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+16:15:17.157 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+16:15:17.180 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+16:15:17.257 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: uploadUsingPOST_1
+16:15:17.276 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: uploadUsingPOST_2
+16:15:17.289 [main] INFO  tour.TourApplication - Started BootPlusApplication in 5.046 seconds (JVM running for 6.016)
+16:16:09.142 [http-nio-11111-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:20:03.205 [main] INFO  tour.TourApplication - Starting BootPlusApplication using Java 1.8.0_281 on zhdpzz with PID 996 (D:\demo\java\matrix_website\target\classes started by 20954 in D:\demo\java\matrix_website)
+16:20:03.239 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+16:20:04.804 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+16:20:04.805 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:20:04.805 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+16:20:04.939 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:20:04.990 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+16:20:27.672 [main] INFO  tour.TourApplication - Starting BootPlusApplication using Java 1.8.0_281 on zhdpzz with PID 17916 (D:\demo\java\matrix_website\target\classes started by 20954 in D:\demo\java\matrix_website)
+16:20:27.677 [main] INFO  tour.TourApplication - No active profile set, falling back to default profiles: default
+16:20:28.735 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-11111"]
+16:20:28.735 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:20:28.735 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+16:20:28.819 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:20:30.904 [main] INFO  springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+16:20:31.228 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-11111"]
+16:20:31.241 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+16:20:31.244 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+16:20:31.261 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+16:20:31.327 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: uploadUsingPOST_1
+16:20:31.344 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: uploadUsingPOST_2
+16:20:31.355 [main] INFO  tour.TourApplication - Started BootPlusApplication in 4.019 seconds (JVM running for 5.667)
+16:20:45.280 [http-nio-11111-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:22:30.747 [http-nio-11111-exec-9] INFO  aspect.base.tour.SysLogAspect - 注解上的值:  测试一下哦执行的类名: com.chuang.bootplus.controller.test.TestController执行的方法名test1执行时长: 2
+16:22:30.748 [http-nio-11111-exec-9] INFO  aspect.base.tour.SysLogAspect - 注解获取请求ip信息: 127.0.0.1
